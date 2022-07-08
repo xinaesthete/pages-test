@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "8e5fd23249520b48",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6fb1d943596e11b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "babel.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6674ad7a1f59e6f3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "folders.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43a1bf26fb5f3a88",
+    "type": "split",
+    "children": [
+      {
+        "id": "7271f3edb9b7a2fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fb3a4650a75cb17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c7d0ea01fe314a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4250057a57dd70e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c52de96794304d56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d322d0fc734c03b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "babel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f6fb1d943596e11b",
+  "lastOpenFiles": [
+    "babel.md",
+    "folders.md",
+    "page2.md"
+  ]
+}
