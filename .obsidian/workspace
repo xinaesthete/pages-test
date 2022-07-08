@@ -7,9 +7,10 @@
         "id": "f6fb1d943596e11b",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "diff-view",
           "state": {
-            "file": "images/MeduButton.PNG"
+            "file": "babel.md",
+            "staged": false
           }
         }
       },
@@ -21,7 +22,7 @@
           "state": {
             "file": "folders.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -79,7 +80,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/MeduButton.PNG",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,18 +89,27 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "3500a1ce5355a434",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "f6fb1d943596e11b",
   "lastOpenFiles": [
-    "images/MeduButton.PNG",
+    "Untitled.md",
     "babel.md",
+    "images/MeduButton.PNG",
     "folders.md",
     "page2.md"
   ]
