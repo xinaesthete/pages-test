@@ -7,11 +7,9 @@
         "id": "f6fb1d943596e11b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "babel.md",
-            "mode": "source",
-            "source": false
+            "file": "images/MeduButton.PNG"
           }
         }
       },
@@ -81,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "babel.md",
+                "file": "images/MeduButton.PNG",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +99,7 @@
   },
   "active": "f6fb1d943596e11b",
   "lastOpenFiles": [
+    "images/MeduButton.PNG",
     "babel.md",
     "folders.md",
     "page2.md"
