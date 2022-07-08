@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-This is mostly a default template thing, but [here's a link to Babel Readme](README).
+This is mostly a default template thing, but [here's a link to Babel Readme](babel).
 
 You can use the [editor on GitHub](https://github.com/xinaesthete/pages-test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
