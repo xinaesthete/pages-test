@@ -2,6 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/xinaesthete/pages-test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
+[This link](page2) will allow me to link to another page... Obsidian style internal links not supported, could use a plugin for that.
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
